@@ -1,0 +1,3 @@
+ #.gitignore ignores the files mentioned in this file
+.idea/
+Python-Introduction.iml
